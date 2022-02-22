@@ -1,5 +1,4 @@
-# CPE315 LAB 5
-Cache Optimization
+# Cache Optimization
 
 ## Purpose
 To optimize data cache accesses for the matrix multiply application.
@@ -30,9 +29,5 @@ make compare
 ### To test original code and optimization code:
 * modified file matmul.cpp
 * comment and comment out the code snippet on matmul and Allocate2ndMatrix functions. 
-
-## Issues
-* No issue. :octocat:
-
 
 
