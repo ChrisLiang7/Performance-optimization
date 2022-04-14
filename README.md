@@ -3,13 +3,6 @@
 ## Purpose
 To optimize data cache accesses for the matrix multiply application.
 
-## Name
-* Zhisong Liang
-* (No partner)
-
-## Status of my lab
-* Complete
-
 ### To build:
 ```shell
 make clean; make
